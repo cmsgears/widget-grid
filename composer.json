@@ -1,0 +1,19 @@
+{
+	"name": "cmsgears/widget-grid",
+	"description": "The Grid Widget for CMSGears. It provide options to manage data grids.",
+	"homepage": "http://www.cmsgears.org",
+	"type": "package",
+	"keywords": [ "yii2", "cmsgears", "widget", "grid" ],
+	"license": "GPLv3",
+	"support": {
+		"resources": "http://www.cmsgears.org"
+	},
+	"autoload": {
+		"psr-4": {
+			"cmsgears\\widgets\\grid\\": ""
+		}
+	},
+    "require": {
+        "cmsgears/module-core": "*"
+    }
+}
