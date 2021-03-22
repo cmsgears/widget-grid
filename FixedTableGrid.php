@@ -21,7 +21,7 @@ class FixedTableGrid extends \cmsgears\core\common\base\TableWidget {
 
 	// Public -----------------
 
-	public $options		= [ 'class' => 'grid-data grid-data-basic grid-table grid-table-basic grid-table-fixed' ];
+	public $options		= [ 'class' => 'cmt-grid grid-data grid-data-basic grid-table grid-table-basic grid-table-fixed' ];
 
 	public $template	= 'fixed';
 

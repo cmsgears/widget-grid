@@ -20,7 +20,7 @@ class DataGrid extends \cmsgears\core\common\base\GridWidget {
 
 	// Public -----------------
 
-	public $options	= [ 'class' => 'grid-data grid-data-basic' ];
+	public $options	= [ 'class' => 'cmt-grid grid-data grid-data-basic' ];
 
 	// Protected --------------
 
